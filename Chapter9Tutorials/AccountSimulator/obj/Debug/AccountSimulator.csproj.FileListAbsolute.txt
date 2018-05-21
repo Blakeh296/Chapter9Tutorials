@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\AccountSimulator\bin\Debug\AccountSimulator.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\AccountSimulator\bin\Debug\AccountSimulator.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\AccountSimulator\bin\Debug\AccountSimulator.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\AccountSimulator\obj\Debug\AccountSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\AccountSimulator\obj\Debug\AccountSimulator.Form1.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\AccountSimulator\obj\Debug\AccountSimulator.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\AccountSimulator\obj\Debug\AccountSimulator.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\AccountSimulator\obj\Debug\AccountSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\AccountSimulator\obj\Debug\AccountSimulator.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\AccountSimulator\obj\Debug\AccountSimulator.pdb

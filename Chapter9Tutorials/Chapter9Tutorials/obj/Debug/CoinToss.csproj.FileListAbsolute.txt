@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\Chapter9Tutorials\bin\Debug\Chapter9Tutorials.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\Chapter9Tutorials\bin\Debug\Chapter9Tutorials.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\Chapter9Tutorials\bin\Debug\Chapter9Tutorials.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\Chapter9Tutorials\obj\Debug\CoinToss.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\Chapter9Tutorials\obj\Debug\Chapter9Tutorials.CoinToss.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\Chapter9Tutorials\obj\Debug\Chapter9Tutorials.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\Chapter9Tutorials\obj\Debug\CoinToss.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\Chapter9Tutorials\obj\Debug\CoinToss.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\Chapter9Tutorials\obj\Debug\Chapter9Tutorials.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\Chapter9Tutorials\obj\Debug\Chapter9Tutorials.pdb

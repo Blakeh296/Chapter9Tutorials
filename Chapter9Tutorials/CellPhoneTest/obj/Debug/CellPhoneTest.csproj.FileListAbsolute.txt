@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\CellPhoneTest\bin\Debug\CellPhoneTest.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\CellPhoneTest\bin\Debug\CellPhoneTest.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\CellPhoneTest\bin\Debug\CellPhoneTest.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\CellPhoneTest\obj\Debug\CellPhoneTest.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\CellPhoneTest\obj\Debug\CellPhoneTest.Form1.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\CellPhoneTest\obj\Debug\CellPhoneTest.Properties.Resources.resources
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\CellPhoneTest\obj\Debug\CellPhoneTest.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\CellPhoneTest\obj\Debug\CellPhoneTest.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\CellPhoneTest\obj\Debug\CellPhoneTest.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\Chapter9Tutorials\CellPhoneTest\obj\Debug\CellPhoneTest.pdb
