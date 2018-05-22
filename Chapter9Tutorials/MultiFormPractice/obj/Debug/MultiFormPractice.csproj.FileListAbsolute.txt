@@ -1,0 +1,11 @@
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\bin\Debug\MultiFormPractice.exe.config
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\bin\Debug\MultiFormPractice.exe
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\bin\Debug\MultiFormPractice.pdb
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\obj\Debug\MultiFormPractice.csprojResolveAssemblyReference.cache
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\obj\Debug\MultiFormPractice.Form1.resources
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\obj\Debug\MultiFormPractice.MessageForm.resources
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\obj\Debug\MultiFormPractice.Properties.Resources.resources
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\obj\Debug\MultiFormPractice.csproj.GenerateResource.Cache
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\obj\Debug\MultiFormPractice.csproj.CoreCompileInputs.cache
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\obj\Debug\MultiFormPractice.exe
+G:\C#\Chapter9Tutorials\Chapter9Tutorials\MultiFormPractice\obj\Debug\MultiFormPractice.pdb
